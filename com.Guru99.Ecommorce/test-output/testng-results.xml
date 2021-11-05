@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23559" started-at="2021-11-05T10:21:15Z" finished-at="2021-11-05T10:21:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23559" started-at="2021-11-05T10:21:15Z" finished-at="2021-11-05T10:21:38Z">
+      <class name="com.Guru99.Ecommorce.Pay_Billing_Page">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Guru99.Ecommorce.Pay_Billing_Page@4b168fa9]" name="setUp" is-config="true" duration-ms="21206" started-at="2021-11-05T10:21:15Z" finished-at="2021-11-05T10:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="check_invalid_billing_id()[pri:0, instance:com.Guru99.Ecommorce.Pay_Billing_Page@4b168fa9]" name="check_invalid_billing_id" duration-ms="2156" started-at="2021-11-05T10:21:36Z" finished-at="2021-11-05T10:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_invalid_billing_id -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Guru99.Ecommorce.Pay_Billing_Page@4b168fa9]" name="tearDown" is-config="true" duration-ms="155" started-at="2021-11-05T10:21:38Z" finished-at="2021-11-05T10:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Guru99.Ecommorce.Pay_Billing_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

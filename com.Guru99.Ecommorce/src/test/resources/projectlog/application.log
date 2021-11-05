@@ -1,0 +1,392 @@
+2021-10-29 11:52:44,405  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 11:53:06,956  INFO [main] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-10-29 11:53:09,895  INFO [main] Listner_Ex:27 - Test Case is Failedmissing_info_adduser
+2021-10-29 11:53:10,761  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 11:54:20,478  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 11:54:34,845  INFO [main] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-10-29 11:54:37,000  INFO [main] Listner_Ex:27 - Test Case is Failedmissing_info_adduser
+2021-10-29 11:54:37,927  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 11:56:41,787  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 11:56:50,212  INFO [main] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-10-29 11:56:52,335  INFO [main] Listner_Ex:27 - Test Case is Failedmissing_info_adduser
+2021-10-29 11:56:53,096  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 12:02:22,698  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 12:02:32,217  INFO [main] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-10-29 12:02:35,164  INFO [main] Listner_Ex:27 - Test Case is Failedmissing_info_adduser
+2021-10-29 12:02:35,911  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 12:03:13,597  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 12:03:21,449  INFO [main] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-10-29 12:03:24,466  INFO [main] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-10-29 12:03:25,192  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 12:18:33,373  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 12:18:41,041  INFO [main] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-10-29 12:18:43,949  INFO [main] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-10-29 12:18:44,532  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 12:52:39,355  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 12:52:39,922  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:01:58,805  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:02:29,410  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:03:04,569  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:03:06,732  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:06:01,009  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:06:16,602  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:06:16,709  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:06:17,725  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:08:04,325  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:08:19,361  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:08:19,463  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:08:20,409  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:10:14,845  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:10:25,271  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:10:48,576  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:10:49,362  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:12:31,341  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:12:42,291  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:12:44,049  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:12:44,870  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:13:54,211  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:14:06,956  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:14:08,371  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:14:09,307  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:15:37,790  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:15:49,067  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:15:50,481  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:15:51,240  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:18:43,507  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:18:53,801  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:18:55,085  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan
+2021-10-29 13:18:55,853  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 13:24:12,312  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 13:24:22,165  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 13:24:25,730  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-10-29 13:24:26,560  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 14:56:29,604  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 14:56:47,678  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 14:56:50,440  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 14:56:51,308  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 14:58:31,102  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 14:58:39,740  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 14:58:42,476  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 14:58:43,214  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:01:54,847  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:02:04,107  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:02:06,365  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 15:02:07,242  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:04:26,227  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:04:36,734  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:04:39,078  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 15:04:39,868  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:06:25,014  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:06:39,787  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:06:41,930  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 15:06:42,693  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:07:54,963  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:08:05,793  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:08:08,056  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 15:08:08,883  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:14:11,506  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:14:28,634  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:14:31,011  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 15:14:31,865  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:16:52,636  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:17:02,176  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:17:04,281  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 15:17:05,019  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:17:59,353  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:18:08,078  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:18:10,263  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo
+2021-10-29 15:18:11,063  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:19:21,016  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:19:32,204  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:19:34,286  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 15:19:35,029  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:20:35,865  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:20:43,787  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:20:46,324  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 15:20:47,040  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:27:40,088  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:27:52,034  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 15:27:55,521  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-10-29 15:28:07,604  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:28:10,327  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 15:28:24,884  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 15:28:27,196  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 15:28:51,697  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-10-29 15:28:54,978  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-10-29 15:29:03,274  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:33:25,687  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:33:36,524  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 15:33:39,725  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-10-29 15:33:49,099  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 15:33:51,501  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 15:34:00,517  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 15:34:32,835  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 15:34:42,976  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-10-29 15:34:45,239  INFO [main] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-10-29 15:34:45,398  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 15:36:54,154  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 15:37:03,603  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 15:37:36,101  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 15:37:36,226  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 16:47:22,834  INFO [main] Listner_Ex:17 - Test Case is started Test
+2021-10-29 16:47:22,843  INFO [main] Listner_Ex:17 - Test Case is started Test
+2021-10-29 16:48:22,672  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 16:48:22,690  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 16:48:53,108  INFO [TestNG-test=Test-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-10-29 16:48:53,151  INFO [TestNG-test=Test-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-10-29 16:50:35,971  INFO [main] Listner_Ex:17 - Test Case is started Test
+2021-10-29 16:50:35,977  INFO [main] Listner_Ex:17 - Test Case is started Test
+2021-10-29 16:51:02,106  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 16:51:02,113  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 16:51:08,407  INFO [TestNG-test=Test-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-10-29 16:51:08,410  INFO [TestNG-test=Test-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-10-29 16:51:34,394  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 16:51:34,397  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 16:51:36,813  INFO [TestNG-test=Test-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 16:51:36,815  INFO [TestNG-test=Test-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 16:51:46,449  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 16:51:46,452  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 16:52:18,885  INFO [TestNG-test=Test-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 16:52:18,938  INFO [TestNG-test=Test-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 16:52:32,458  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 16:52:32,460  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 16:53:04,780  INFO [TestNG-test=Test-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 16:53:04,784  INFO [TestNG-test=Test-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 16:53:20,137  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 16:53:20,139  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 16:53:52,197  INFO [TestNG-test=Test-1] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 16:53:52,201  INFO [TestNG-test=Test-1] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 16:54:01,548  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-10-29 16:54:01,550  INFO [TestNG-test=Test-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-10-29 16:54:03,952  INFO [TestNG-test=Test-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-10-29 16:54:03,954  INFO [TestNG-test=Test-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-10-29 16:54:04,052  INFO [main] Listner_Ex:12 - Test Case is FinishedTest
+2021-10-29 16:54:04,312  INFO [main] Listner_Ex:12 - Test Case is FinishedTest
+2021-10-29 17:09:15,176  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-10-29 17:09:15,183  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-10-29 17:09:15,267  INFO [TestNG-test=TPTest-1] Listner_Ex:32 - Test Case is SkippedMissing_info_alert
+2021-10-29 17:09:15,269  INFO [TestNG-test=TPTest-1] Listner_Ex:32 - Test Case is SkippedMissing_info_alert
+2021-10-29 17:09:15,279  INFO [TestNG-test=TPTest-1] Listner_Ex:32 - Test Case is Skippedverify_Invalid_email
+2021-10-29 17:09:15,282  INFO [TestNG-test=TPTest-1] Listner_Ex:32 - Test Case is Skippedverify_Invalid_email
+2021-10-29 17:09:15,286  INFO [TestNG-test=TPTest-2] Listner_Ex:32 - Test Case is Skippeddashboard_Check
+2021-10-29 17:09:15,289  INFO [TestNG-test=TPTest-2] Listner_Ex:32 - Test Case is Skippeddashboard_Check
+2021-10-29 17:09:15,305  INFO [TestNG-test=TPTest-3] Listner_Ex:32 - Test Case is Skippedadd_user_test
+2021-10-29 17:09:15,307  INFO [TestNG-test=TPTest-3] Listner_Ex:32 - Test Case is Skippedadd_user_test
+2021-10-29 17:09:15,313  INFO [TestNG-test=TPTest-4] Listner_Ex:32 - Test Case is Skippedmissing_info_adduser
+2021-10-29 17:09:15,316  INFO [TestNG-test=TPTest-4] Listner_Ex:32 - Test Case is Skippedmissing_info_adduser
+2021-10-29 17:09:15,326  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-10-29 17:09:15,427  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-10-29 17:09:15,431  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-10-29 17:09:15,433  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-10-29 17:09:15,442  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-10-29 17:09:15,445  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-10-29 17:09:15,452  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo
+2021-10-29 17:09:15,455  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo
+2021-10-29 17:09:15,464  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 17:09:15,466  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 17:09:15,470  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_wronginfo
+2021-10-29 17:09:15,472  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_wronginfo
+2021-10-29 17:09:15,476  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-10-29 17:09:15,500  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-10-29 17:10:42,453  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-10-29 17:10:42,460  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-10-29 17:10:58,812  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-10-29 17:10:58,818  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-10-29 17:11:00,936  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-10-29 17:11:00,938  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-10-29 17:11:20,158  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-10-29 17:11:20,160  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-10-29 17:11:25,117  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-10-29 17:11:25,122  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-10-29 17:11:36,992  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-10-29 17:11:36,995  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-10-29 17:11:37,025  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-10-29 17:11:37,027  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-10-29 17:11:50,219  INFO [TestNG-test=TPTest-3] Listner_Ex:37 - Test is executedadd_user_test
+2021-10-29 17:11:50,221  INFO [TestNG-test=TPTest-3] Listner_Ex:37 - Test is executedadd_user_test
+2021-10-29 17:11:53,431  INFO [TestNG-test=TPTest-3] Listner_Ex:42 - Test Case is successed add_user_test
+2021-10-29 17:11:53,434  INFO [TestNG-test=TPTest-3] Listner_Ex:42 - Test Case is successed add_user_test
+2021-10-29 17:12:06,473  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-10-29 17:12:06,475  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-10-29 17:12:10,451  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-10-29 17:12:10,455  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-10-29 17:12:13,075  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-10-29 17:12:14,033  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-10-29 17:12:14,036  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-10-29 17:12:14,039  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-10-29 17:12:32,855  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 17:12:32,857  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-10-29 17:12:36,502  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-10-29 17:12:36,509  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-10-29 17:13:05,088  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 17:13:05,089  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-10-29 17:13:09,483  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 17:13:09,485  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-10-29 17:13:27,072  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:13:27,074  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:14:02,011  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 17:14:02,073  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 17:14:22,709  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:14:22,711  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:14:55,099  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 17:14:55,102  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-10-29 17:15:17,334  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:15:17,335  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:15:49,389  INFO [TestNG-test=HPTest-1] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 17:15:49,391  INFO [TestNG-test=HPTest-1] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 17:15:59,761  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-10-29 17:15:59,763  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-10-29 17:16:02,090  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-10-29 17:16:02,096  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-10-29 17:16:02,261  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-10-29 17:16:02,422  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-10-29 17:18:00,789  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 17:18:11,384  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:18:45,535  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 17:18:46,216  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 17:21:15,413  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 17:21:25,575  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:21:57,672  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 17:21:57,898  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 17:23:51,085  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 17:24:03,018  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:24:35,283  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 17:24:35,501  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 17:26:44,379  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 17:26:56,166  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:27:28,392  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 17:27:28,611  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-10-29 17:32:57,839  INFO [main] Listner_Ex:17 - Test Case is started Default test
+2021-10-29 17:33:07,924  INFO [main] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-10-29 17:33:43,076  INFO [main] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-10-29 17:33:43,570  INFO [main] Listner_Ex:12 - Test Case is FinishedDefault test
+2021-11-01 10:32:36,134  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-11-01 10:32:36,155  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-11-01 10:33:36,840  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-11-01 10:33:37,041  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-11-01 10:33:42,020  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-11-01 10:33:42,022  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-11-01 10:34:11,057  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:34:11,060  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:34:22,299  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-11-01 10:34:22,303  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-11-01 10:34:44,469  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:34:44,474  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:34:44,529  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-11-01 10:34:44,533  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-11-01 10:35:06,697  INFO [TestNG-test=TPTest-3] Listner_Ex:37 - Test is executedadd_user_test
+2021-11-01 10:35:06,700  INFO [TestNG-test=TPTest-3] Listner_Ex:37 - Test is executedadd_user_test
+2021-11-01 10:35:45,407  INFO [TestNG-test=TPTest-3] Listner_Ex:42 - Test Case is successed add_user_test
+2021-11-01 10:35:45,411  INFO [TestNG-test=TPTest-3] Listner_Ex:42 - Test Case is successed add_user_test
+2021-11-01 10:36:08,403  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-11-01 10:36:08,405  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-11-01 10:36:18,624  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-11-01 10:36:18,627  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-11-01 10:36:20,078  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-11-01 10:36:20,455  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-11-01 10:36:20,460  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-11-01 10:36:20,463  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-11-01 10:36:41,888  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-11-01 10:36:41,892  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan
+2021-11-01 10:36:57,098  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-11-01 10:36:57,100  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan
+2021-11-01 10:37:20,396  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-11-01 10:37:20,400  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo
+2021-11-01 10:37:27,308  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-11-01 10:37:27,310  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_missInfo
+2021-11-01 10:37:46,309  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-11-01 10:37:46,311  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-11-01 10:38:22,839  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 10:38:22,956  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 10:39:53,378  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-11-01 10:39:53,380  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-11-01 10:40:31,202  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 10:40:31,205  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 10:40:57,632  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-11-01 10:40:57,634  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_missInfo1
+2021-11-01 10:41:34,875  INFO [TestNG-test=HPTest-1] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-11-01 10:41:34,880  INFO [TestNG-test=HPTest-1] Listner_Ex:27 - Test Case is Failedverify_add_tariff_plan_missInfo1
+2021-11-01 10:42:14,256  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-11-01 10:42:14,259  INFO [TestNG-test=HPTest-1] Listner_Ex:37 - Test is executedverify_add_tariff_plan_wronginfo
+2021-11-01 10:42:32,908  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-11-01 10:42:32,909  INFO [TestNG-test=HPTest-1] Listner_Ex:42 - Test Case is successed verify_add_tariff_plan_wronginfo
+2021-11-01 10:42:35,506  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-11-01 10:42:35,663  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-11-01 10:49:33,705  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-11-01 10:49:33,726  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-11-01 10:50:01,343  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-11-01 10:50:01,360  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-11-01 10:50:04,006  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-11-01 10:50:04,008  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-11-01 10:50:15,815  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:50:15,818  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:50:20,960  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-11-01 10:50:20,965  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-11-01 10:50:36,371  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:50:36,376  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:50:36,603  INFO [TestNG-test=TPTest-2] Listner_Ex:32 - Test Case is Skippeddashboard_Check
+2021-11-01 10:50:37,083  INFO [TestNG-test=TPTest-2] Listner_Ex:32 - Test Case is Skippeddashboard_Check
+2021-11-01 10:50:59,891  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:50:59,894  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:50:59,907  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-11-01 10:50:59,909  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-11-01 10:51:00,087  INFO [TestNG-test=TPTest-3] Listner_Ex:32 - Test Case is Skippedadd_user_test
+2021-11-01 10:51:00,089  INFO [TestNG-test=TPTest-3] Listner_Ex:32 - Test Case is Skippedadd_user_test
+2021-11-01 10:51:31,270  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-11-01 10:51:31,272  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-11-01 10:51:45,857  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-11-01 10:51:45,862  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-11-01 10:51:53,146  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-11-01 10:51:53,627  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-11-01 10:51:53,631  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-11-01 10:51:53,633  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-11-01 10:51:53,730  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-11-01 10:51:53,735  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-11-01 10:51:53,745  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo
+2021-11-01 10:51:53,749  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo
+2021-11-01 10:51:53,758  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 10:51:53,763  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 10:51:53,771  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_wronginfo
+2021-11-01 10:51:53,774  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_wronginfo
+2021-11-01 10:51:53,778  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-11-01 10:51:53,917  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-11-01 10:57:18,436  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-11-01 10:57:18,453  INFO [main] Listner_Ex:17 - Test Case is started TPTest
+2021-11-01 10:57:42,845  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-11-01 10:57:42,862  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedMissing_info_alert
+2021-11-01 10:57:46,075  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-11-01 10:57:46,078  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed Missing_info_alert
+2021-11-01 10:58:05,847  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:58:05,851  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:58:36,190  INFO [TestNG-test=TPTest-1] Listner_Ex:32 - Test Case is Skippedverify_Invalid_email
+2021-11-01 10:58:36,257  INFO [TestNG-test=TPTest-1] Listner_Ex:32 - Test Case is Skippedverify_Invalid_email
+2021-11-01 10:59:33,399  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:59:33,402  INFO [TestNG-test=TPTest-1] Listner_Ex:37 - Test is executedverify_Invalid_email
+2021-11-01 10:59:41,979  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-11-01 10:59:41,980  INFO [TestNG-test=TPTest-1] Listner_Ex:42 - Test Case is successed verify_Invalid_email
+2021-11-01 10:59:59,408  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:59:59,416  INFO [TestNG-test=TPTest-2] Listner_Ex:37 - Test is executeddashboard_Check
+2021-11-01 10:59:59,506  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-11-01 10:59:59,508  INFO [TestNG-test=TPTest-2] Listner_Ex:42 - Test Case is successed dashboard_Check
+2021-11-01 11:00:11,239  INFO [TestNG-test=TPTest-3] Listner_Ex:37 - Test is executedadd_user_test
+2021-11-01 11:00:11,241  INFO [TestNG-test=TPTest-3] Listner_Ex:37 - Test is executedadd_user_test
+2021-11-01 11:00:15,289  INFO [TestNG-test=TPTest-3] Listner_Ex:42 - Test Case is successed add_user_test
+2021-11-01 11:00:15,291  INFO [TestNG-test=TPTest-3] Listner_Ex:42 - Test Case is successed add_user_test
+2021-11-01 11:00:29,383  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-11-01 11:00:29,385  INFO [TestNG-test=TPTest-4] Listner_Ex:37 - Test is executedmissing_info_adduser
+2021-11-01 11:00:33,176  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-11-01 11:00:33,182  INFO [TestNG-test=TPTest-4] Listner_Ex:42 - Test Case is successed missing_info_adduser
+2021-11-01 11:00:33,992  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-11-01 11:00:34,430  INFO [main] Listner_Ex:12 - Test Case is FinishedTPTest
+2021-11-01 11:00:34,433  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-11-01 11:00:34,436  INFO [main] Listner_Ex:17 - Test Case is started HPTest
+2021-11-01 11:03:27,619  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-11-01 11:03:27,624  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan
+2021-11-01 11:03:27,633  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo
+2021-11-01 11:03:27,636  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo
+2021-11-01 11:03:27,642  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 11:03:27,645  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_missInfo1
+2021-11-01 11:03:27,650  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_wronginfo
+2021-11-01 11:03:27,652  INFO [TestNG-test=HPTest-1] Listner_Ex:32 - Test Case is Skippedverify_add_tariff_plan_wronginfo
+2021-11-01 11:03:27,655  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest
+2021-11-01 11:03:28,788  INFO [main] Listner_Ex:12 - Test Case is FinishedHPTest

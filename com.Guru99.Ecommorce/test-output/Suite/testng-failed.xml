@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="10" name="Failed suite [Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="com.Guru99.Listner.Listner_Ex"/>
+    <listener class-name="com.Guru99.Listner.Setretry"/>
+  </listeners>
+  <test thread-count="5" verbose="10" name="TPTest(failed)" parallel="classes">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Guru99.Ecommorce.HomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="verify_Invalid_email"/>
+        </methods>
+      </class> <!-- com.Guru99.Ecommorce.HomePage -->
+    </classes>
+  </test> <!-- TPTest(failed) -->
+  <test thread-count="5" verbose="10" name="HPTest(failed)" parallel="classes">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.Guru99.Ecommorce.Add_Tariff_Plans_Page">
+        <methods>
+          <include name="verify_add_tariff_plan_wronginfo"/>
+          <include name="verify_add_tariff_plan_missInfo"/>
+          <include name="verify_add_tariff_plan"/>
+          <include name="verify_add_tariff_plan_missInfo1"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Guru99.Ecommorce.Add_Tariff_Plans_Page -->
+    </classes>
+  </test> <!-- HPTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="5"
+	verbose="10">
+	<listeners>
+		<listener class-name="com.Guru99.Listner.Listner_Ex"></listener>
+		<listener class-name="com.Guru99.Listner.Setretry"></listener>
+	</listeners>
+	<test name="TPTest">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.Guru99.Ecommorce.HomePage" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="HPTest">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="com.Guru99.Ecommorce.Add_Tariff_Plans_Page" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
